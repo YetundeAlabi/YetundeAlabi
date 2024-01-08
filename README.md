@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YetundeAlabi
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Golang,
-- 🌱 I work with Python, Flask, Fastapi, Django
+- 🌱 I work with Python(Frameworks: Flask, Fastapi, Django, Django ninja), Golang(Gin)
 - 💞️ I’m looking to collaborate on building Backend APIs
 - 📫 How to reach me email:alabiyetunde007@gmail.com, Twitter@ShaKKiroh
 
